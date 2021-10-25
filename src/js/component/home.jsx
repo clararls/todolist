@@ -47,7 +47,7 @@ const Home = () => {
 						<div className="list-group">
 							{List.length == 0 ? (
 								<div className="list-group-item">
-									Add your task...
+									No task, add a Task
 								</div>
 							) : (
 								""
